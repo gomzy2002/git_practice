@@ -1,1 +1,1 @@
-let's practice git
+let's practice git by watching a youtube tutorial
